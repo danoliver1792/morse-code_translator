@@ -1,0 +1,14 @@
+C:\Users\danrl\OneDrive\C#\MorseCodeTranslator\MorseCodeTranslator\bin\Debug\net6.0\MorseCodeTranslator.exe
+C:\Users\danrl\OneDrive\C#\MorseCodeTranslator\MorseCodeTranslator\bin\Debug\net6.0\MorseCodeTranslator.deps.json
+C:\Users\danrl\OneDrive\C#\MorseCodeTranslator\MorseCodeTranslator\bin\Debug\net6.0\MorseCodeTranslator.runtimeconfig.json
+C:\Users\danrl\OneDrive\C#\MorseCodeTranslator\MorseCodeTranslator\bin\Debug\net6.0\MorseCodeTranslator.dll
+C:\Users\danrl\OneDrive\C#\MorseCodeTranslator\MorseCodeTranslator\bin\Debug\net6.0\MorseCodeTranslator.pdb
+C:\Users\danrl\OneDrive\C#\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\net6.0\MorseCodeTranslator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danrl\OneDrive\C#\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\net6.0\MorseCodeTranslator.AssemblyInfoInputs.cache
+C:\Users\danrl\OneDrive\C#\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\net6.0\MorseCodeTranslator.AssemblyInfo.cs
+C:\Users\danrl\OneDrive\C#\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\net6.0\MorseCodeTranslator.csproj.CoreCompileInputs.cache
+C:\Users\danrl\OneDrive\C#\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\net6.0\MorseCodeTranslator.dll
+C:\Users\danrl\OneDrive\C#\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\net6.0\refint\MorseCodeTranslator.dll
+C:\Users\danrl\OneDrive\C#\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\net6.0\MorseCodeTranslator.pdb
+C:\Users\danrl\OneDrive\C#\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\net6.0\MorseCodeTranslator.genruntimeconfig.cache
+C:\Users\danrl\OneDrive\C#\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\net6.0\ref\MorseCodeTranslator.dll
