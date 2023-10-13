@@ -35,7 +35,8 @@ namespace MorseCodeTranslator
             foreach (char character in text)
             {
                 if (character == ' ')
-                {
+                {   
+                    // adicionando espaco para separar as palavras
                     morseCode += " ";
                 }
                 else if (morseCodeDict.ContainsKey(character))
@@ -43,11 +44,12 @@ namespace MorseCodeTranslator
                     morseCode += morseCodeDict[character] + " ";
                 }
                 else
-                {
+                {   
+                    // adicionando "?" em caracteres desconhecidos
                     morseCode += "? ";
                 }
             }
-
+            // removendo espacos em branco no inicio e final da frase
             return morseCode.Trim();
         }
     }
